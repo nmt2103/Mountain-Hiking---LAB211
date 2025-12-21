@@ -1,0 +1,12 @@
+# --- NetBeans specific ---
+/build/
+/dist/
+/nbproject/private/
+/out/
+
+# --- Compiled Java files ---
+*.class
+*.jar
+
+# --- Project Data (Runtime generated) ---
+registrations.dat
